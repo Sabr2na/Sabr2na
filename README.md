@@ -2,7 +2,7 @@ Olá, eu sou Sabrina Andrade 👋
 
 - 🔭 Hoje trabalho como Analista de suporte ao negócio 
 - 🌱 Graduanda em Ciência de dados 
-- 👯 Analise de dados, sofware e SRE 
+- 👯 Analise de dados e Sofware 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabr2na&show_icons=true&theme=radical) 
