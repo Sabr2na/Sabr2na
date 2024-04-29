@@ -1,6 +1,6 @@
 Olá, eu sou Sabrina Andrade 👋
 
-- 🔭 Hoje trabalho como Analista de suporte ao negócio 
+- 🔭 Buscando uma vaga na área de dados
 - 🌱 Graduanda em Ciência de dados 
 - 👯 Analise de dados e Sofware 
 
