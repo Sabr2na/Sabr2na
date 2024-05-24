@@ -1,6 +1,6 @@
 Olá, eu sou Sabrina Andrade 👋
 
-- 🔭 Buscando uma vaga na área de dados
+- 🔭 Buscando uma vaga 
 - 🌱 Graduanda em Ciência de dados 
 - 👯 Analise de dados e Sofware 
 
