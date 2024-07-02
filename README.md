@@ -1,6 +1,6 @@
 Olá, eu sou Sabrina Andrade 👋
 
-- 🔭 Analista | Dados |  Suporte  
+- 🔭 Analista | Dados |  Suporte | Front-end
 - 🌱 Graduanda em Ciência de dados 
 - 👯 Analise de dados e Sofware 
 
